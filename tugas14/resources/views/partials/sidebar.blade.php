@@ -5,7 +5,7 @@
             <img src="{{ asset('./AdminLte/dist/img/AdminLTELogo.png') }}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-            <a href="#" class="d-block">Rafa Aditya</a>
+            <a href="#" class="d-block">Dwi Suci</a>
         </div>
     </div>
 
